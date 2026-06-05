@@ -1,4 +1,4 @@
-# 🌦️ Project 3 — Global Weather Data Analysis
+# 🌦️ Project — Global Weather Data Analysis
 **Multi-Domain Data Analysis Portfolio | Weather & Climate Domain**
 
 > **Author:** Binal Doshi | MSc AI & Data Science, University of Mumbai (2025–2027)  
